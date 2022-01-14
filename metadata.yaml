@@ -17,6 +17,9 @@ contributor:
     deathdate: 1899
     gutenberg_agent_id: '54083'
     url: http://www.gutenberg.org/2009/agents/54083
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Brehm, Alfred Edmund
@@ -29,6 +32,8 @@ creator:
     - https://nl.wikipedia.org/wiki/Alfred_Brehm
     - https://en.wikipedia.org/wiki/Alfred_Brehm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67023#Van-den-Noordpool-naar-den-Aequator-Blikken-in-het-groote-rijk-der-schepping
 gutenberg_issued: '2021-12-27'
 identifiers:
   gutenberg: '67023'
